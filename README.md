@@ -4,7 +4,7 @@
 
 Program does 23781703680 permutations which is = 9! * 4^8
 
-9! is permutation of 9 blocks position, and 4^8 is all combinations of 8 blocks rotation
+9! means every combination of 9 blocks position, and 4^8 means every combination of 8 blocks rotation
 
 one block never rotates, because it would result in four of the same solutions just rotated by 90 degrees
 
